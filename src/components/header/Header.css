@@ -11,10 +11,10 @@
     justify-content: space-between;
 }
 
-.logged-in,
+/* .logged-in,
 .logged-out {
     display: none;
-}
+} */
 
 .logged-in.active,
 .logged-out.active {
